@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/send-pdf.js": {
+      "maxDuration": 30
+    }
+  }
+}
